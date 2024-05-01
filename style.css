@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+}
+
+
+.titulo-pg1 {
+    color: green;
+    text-align: center;
+}
+
+.sobre-o-time {
+    color: white;
+    text-align: center;
+}
+
+.escudos {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 220px;
+}
+
+.kruger{
+    color: green;
+}
+
+.pg {
+    color: green;
+}
+
+.gr {
+    color: green;
+}
